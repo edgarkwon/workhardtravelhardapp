@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/workhardtravelhardapp/static/js/app.7f7cb95d.chunk.js",
+    "app.js.map": "/workhardtravelhardapp/static/js/app.7f7cb95d.chunk.js.map",
+    "runtime~app.js": "/workhardtravelhardapp/static/js/runtime~app.d3c1975b.js",
+    "runtime~app.js.map": "/workhardtravelhardapp/static/js/runtime~app.d3c1975b.js.map",
+    "static/js/2.e39d3ad8.chunk.js": "/workhardtravelhardapp/static/js/2.e39d3ad8.chunk.js",
+    "static/js/2.e39d3ad8.chunk.js.map": "/workhardtravelhardapp/static/js/2.e39d3ad8.chunk.js.map",
+    "fonts/AntDesign.ttf": "/workhardtravelhardapp/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/workhardtravelhardapp/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/workhardtravelhardapp/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/workhardtravelhardapp/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/workhardtravelhardapp/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/workhardtravelhardapp/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/workhardtravelhardapp/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/workhardtravelhardapp/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/workhardtravelhardapp/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/workhardtravelhardapp/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/workhardtravelhardapp/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/workhardtravelhardapp/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/workhardtravelhardapp/favicon-16.png",
+    "favicon-32.png": "/workhardtravelhardapp/favicon-32.png",
+    "favicon.ico": "/workhardtravelhardapp/favicon.ico",
+    "index.html": "/workhardtravelhardapp/index.html",
+    "manifest.json": "/workhardtravelhardapp/manifest.json",
+    "serve.json": "/workhardtravelhardapp/serve.json",
+    "static/js/2.e39d3ad8.chunk.js.LICENSE.txt": "/workhardtravelhardapp/static/js/2.e39d3ad8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.d3c1975b.js",
+    "static/js/2.e39d3ad8.chunk.js",
+    "static/js/app.7f7cb95d.chunk.js"
+  ]
+}
